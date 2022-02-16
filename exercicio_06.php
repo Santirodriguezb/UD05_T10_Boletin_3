@@ -22,10 +22,6 @@
                 echo "<p>O tempo que tardará é: $tiempo segundos</p>";
             }
 
-
-
-
-
         ?>
     </body>
 </html>
