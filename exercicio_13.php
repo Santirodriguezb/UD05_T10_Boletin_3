@@ -20,8 +20,6 @@
         foreach ($numeros as $key => $value) {
             echo "<p>O orden dos numeros é: $value</p>";
         }
-
-
     ?>
 </body>
 </html>
